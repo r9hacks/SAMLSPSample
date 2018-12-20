@@ -1,0 +1,157 @@
+C:\Users\pn2968\Projects\AuthGatway\SP example project\SAML example\High API\WebApplication3\WebApplication3\bin\ApplicationInsights.config
+C:\Users\pn2968\Projects\AuthGatway\SP example project\SAML example\High API\WebApplication3\WebApplication3\bin\WebApplication3.dll.config
+C:\Users\pn2968\Projects\AuthGatway\SP example project\SAML example\High API\WebApplication3\WebApplication3\bin\WebApplication3.dll
+C:\Users\pn2968\Projects\AuthGatway\SP example project\SAML example\High API\WebApplication3\WebApplication3\bin\WebApplication3.pdb
+C:\Users\pn2968\Projects\AuthGatway\SP example project\SAML example\High API\WebApplication3\WebApplication3\bin\Antlr3.Runtime.dll
+C:\Users\pn2968\Projects\AuthGatway\SP example project\SAML example\High API\WebApplication3\WebApplication3\bin\AspNet.ScriptManager.bootstrap.dll
+C:\Users\pn2968\Projects\AuthGatway\SP example project\SAML example\High API\WebApplication3\WebApplication3\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\pn2968\Projects\AuthGatway\SP example project\SAML example\High API\WebApplication3\WebApplication3\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\pn2968\Projects\AuthGatway\SP example project\SAML example\High API\WebApplication3\WebApplication3\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\pn2968\Projects\AuthGatway\SP example project\SAML example\High API\WebApplication3\WebApplication3\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\pn2968\Projects\AuthGatway\SP example project\SAML example\High API\WebApplication3\WebApplication3\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\pn2968\Projects\AuthGatway\SP example project\SAML example\High API\WebApplication3\WebApplication3\bin\Microsoft.AI.Web.dll
+C:\Users\pn2968\Projects\AuthGatway\SP example project\SAML example\High API\WebApplication3\WebApplication3\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\pn2968\Projects\AuthGatway\SP example project\SAML example\High API\WebApplication3\WebApplication3\bin\Microsoft.ApplicationInsights.dll
+C:\Users\pn2968\Projects\AuthGatway\SP example project\SAML example\High API\WebApplication3\WebApplication3\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Users\pn2968\Projects\AuthGatway\SP example project\SAML example\High API\WebApplication3\WebApplication3\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\pn2968\Projects\AuthGatway\SP example project\SAML example\High API\WebApplication3\WebApplication3\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\pn2968\Projects\AuthGatway\SP example project\SAML example\High API\WebApplication3\WebApplication3\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\pn2968\Projects\AuthGatway\SP example project\SAML example\High API\WebApplication3\WebApplication3\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\pn2968\Projects\AuthGatway\SP example project\SAML example\High API\WebApplication3\WebApplication3\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\pn2968\Projects\AuthGatway\SP example project\SAML example\High API\WebApplication3\WebApplication3\bin\Newtonsoft.Json.dll
+C:\Users\pn2968\Projects\AuthGatway\SP example project\SAML example\High API\WebApplication3\WebApplication3\bin\System.Web.Optimization.dll
+C:\Users\pn2968\Projects\AuthGatway\SP example project\SAML example\High API\WebApplication3\WebApplication3\bin\WebGrease.dll
+C:\Users\pn2968\Projects\AuthGatway\SP example project\SAML example\High API\WebApplication3\WebApplication3\bin\ComponentSpace.SAML2.pdb
+C:\Users\pn2968\Projects\AuthGatway\SP example project\SAML example\High API\WebApplication3\WebApplication3\bin\ComponentSpace.SAML2.xml
+C:\Users\pn2968\Projects\AuthGatway\SP example project\SAML example\High API\WebApplication3\WebApplication3\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\pn2968\Projects\AuthGatway\SP example project\SAML example\High API\WebApplication3\WebApplication3\bin\System.Web.Optimization.xml
+C:\Users\pn2968\Projects\AuthGatway\SP example project\SAML example\High API\WebApplication3\WebApplication3\bin\Antlr3.Runtime.pdb
+C:\Users\pn2968\Projects\AuthGatway\SP example project\SAML example\High API\WebApplication3\WebApplication3\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\pn2968\Projects\AuthGatway\SP example project\SAML example\High API\WebApplication3\WebApplication3\bin\Newtonsoft.Json.xml
+C:\Users\pn2968\Projects\AuthGatway\SP example project\SAML example\High API\WebApplication3\WebApplication3\bin\Microsoft.ApplicationInsights.xml
+C:\Users\pn2968\Projects\AuthGatway\SP example project\SAML example\High API\WebApplication3\WebApplication3\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\pn2968\Projects\AuthGatway\SP example project\SAML example\High API\WebApplication3\WebApplication3\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\pn2968\Projects\AuthGatway\SP example project\SAML example\High API\WebApplication3\WebApplication3\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\pn2968\Projects\AuthGatway\SP example project\SAML example\High API\WebApplication3\WebApplication3\bin\Microsoft.AI.Web.xml
+C:\Users\pn2968\Projects\AuthGatway\SP example project\SAML example\High API\WebApplication3\WebApplication3\obj\Release\WebApplication3.csproj.CoreCompileInputs.cache
+C:\Users\pn2968\Projects\AuthGatway\SP example project\SAML example\High API\WebApplication3\WebApplication3\obj\Release\WebApplication3.csproj.CopyComplete
+C:\Users\pn2968\Projects\AuthGatway\SP example project\SAML example\High API\WebApplication3\WebApplication3\obj\Release\WebApplication3.dll
+C:\Users\pn2968\Projects\AuthGatway\SP example project\SAML example\High API\WebApplication3\WebApplication3\obj\Release\WebApplication3.pdb
+C:\Users\pn2968\Projects\AuthGatway\SP example project - Development(SalehAuthWS)\SAML example\High API\WebApplication3\WebApplication3\bin\ApplicationInsights.config
+C:\Users\pn2968\Projects\AuthGatway\SP example project - Development(SalehAuthWS)\SAML example\High API\WebApplication3\WebApplication3\bin\WebApplication3.dll.config
+C:\Users\pn2968\Projects\AuthGatway\SP example project - Development(SalehAuthWS)\SAML example\High API\WebApplication3\WebApplication3\bin\WebApplication3.dll
+C:\Users\pn2968\Projects\AuthGatway\SP example project - Development(SalehAuthWS)\SAML example\High API\WebApplication3\WebApplication3\bin\WebApplication3.pdb
+C:\Users\pn2968\Projects\AuthGatway\SP example project - Development(SalehAuthWS)\SAML example\High API\WebApplication3\WebApplication3\bin\Antlr3.Runtime.dll
+C:\Users\pn2968\Projects\AuthGatway\SP example project - Development(SalehAuthWS)\SAML example\High API\WebApplication3\WebApplication3\bin\AspNet.ScriptManager.bootstrap.dll
+C:\Users\pn2968\Projects\AuthGatway\SP example project - Development(SalehAuthWS)\SAML example\High API\WebApplication3\WebApplication3\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\pn2968\Projects\AuthGatway\SP example project - Development(SalehAuthWS)\SAML example\High API\WebApplication3\WebApplication3\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\pn2968\Projects\AuthGatway\SP example project - Development(SalehAuthWS)\SAML example\High API\WebApplication3\WebApplication3\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\pn2968\Projects\AuthGatway\SP example project - Development(SalehAuthWS)\SAML example\High API\WebApplication3\WebApplication3\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\pn2968\Projects\AuthGatway\SP example project - Development(SalehAuthWS)\SAML example\High API\WebApplication3\WebApplication3\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\pn2968\Projects\AuthGatway\SP example project - Development(SalehAuthWS)\SAML example\High API\WebApplication3\WebApplication3\bin\Microsoft.AI.Web.dll
+C:\Users\pn2968\Projects\AuthGatway\SP example project - Development(SalehAuthWS)\SAML example\High API\WebApplication3\WebApplication3\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\pn2968\Projects\AuthGatway\SP example project - Development(SalehAuthWS)\SAML example\High API\WebApplication3\WebApplication3\bin\Microsoft.ApplicationInsights.dll
+C:\Users\pn2968\Projects\AuthGatway\SP example project - Development(SalehAuthWS)\SAML example\High API\WebApplication3\WebApplication3\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Users\pn2968\Projects\AuthGatway\SP example project - Development(SalehAuthWS)\SAML example\High API\WebApplication3\WebApplication3\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\pn2968\Projects\AuthGatway\SP example project - Development(SalehAuthWS)\SAML example\High API\WebApplication3\WebApplication3\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\pn2968\Projects\AuthGatway\SP example project - Development(SalehAuthWS)\SAML example\High API\WebApplication3\WebApplication3\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\pn2968\Projects\AuthGatway\SP example project - Development(SalehAuthWS)\SAML example\High API\WebApplication3\WebApplication3\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\pn2968\Projects\AuthGatway\SP example project - Development(SalehAuthWS)\SAML example\High API\WebApplication3\WebApplication3\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\pn2968\Projects\AuthGatway\SP example project - Development(SalehAuthWS)\SAML example\High API\WebApplication3\WebApplication3\bin\Newtonsoft.Json.dll
+C:\Users\pn2968\Projects\AuthGatway\SP example project - Development(SalehAuthWS)\SAML example\High API\WebApplication3\WebApplication3\bin\System.Web.Optimization.dll
+C:\Users\pn2968\Projects\AuthGatway\SP example project - Development(SalehAuthWS)\SAML example\High API\WebApplication3\WebApplication3\bin\WebGrease.dll
+C:\Users\pn2968\Projects\AuthGatway\SP example project - Development(SalehAuthWS)\SAML example\High API\WebApplication3\WebApplication3\bin\ComponentSpace.SAML2.pdb
+C:\Users\pn2968\Projects\AuthGatway\SP example project - Development(SalehAuthWS)\SAML example\High API\WebApplication3\WebApplication3\bin\ComponentSpace.SAML2.xml
+C:\Users\pn2968\Projects\AuthGatway\SP example project - Development(SalehAuthWS)\SAML example\High API\WebApplication3\WebApplication3\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\pn2968\Projects\AuthGatway\SP example project - Development(SalehAuthWS)\SAML example\High API\WebApplication3\WebApplication3\bin\System.Web.Optimization.xml
+C:\Users\pn2968\Projects\AuthGatway\SP example project - Development(SalehAuthWS)\SAML example\High API\WebApplication3\WebApplication3\bin\Antlr3.Runtime.pdb
+C:\Users\pn2968\Projects\AuthGatway\SP example project - Development(SalehAuthWS)\SAML example\High API\WebApplication3\WebApplication3\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\pn2968\Projects\AuthGatway\SP example project - Development(SalehAuthWS)\SAML example\High API\WebApplication3\WebApplication3\bin\Newtonsoft.Json.xml
+C:\Users\pn2968\Projects\AuthGatway\SP example project - Development(SalehAuthWS)\SAML example\High API\WebApplication3\WebApplication3\bin\Microsoft.ApplicationInsights.xml
+C:\Users\pn2968\Projects\AuthGatway\SP example project - Development(SalehAuthWS)\SAML example\High API\WebApplication3\WebApplication3\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\pn2968\Projects\AuthGatway\SP example project - Development(SalehAuthWS)\SAML example\High API\WebApplication3\WebApplication3\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\pn2968\Projects\AuthGatway\SP example project - Development(SalehAuthWS)\SAML example\High API\WebApplication3\WebApplication3\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\pn2968\Projects\AuthGatway\SP example project - Development(SalehAuthWS)\SAML example\High API\WebApplication3\WebApplication3\bin\Microsoft.AI.Web.xml
+C:\Users\pn2968\Projects\AuthGatway\SP example project - Development(SalehAuthWS)\SAML example\High API\WebApplication3\WebApplication3\obj\Release\WebApplication3.csprojAssemblyReference.cache
+C:\Users\pn2968\Projects\AuthGatway\SP example project - Development(SalehAuthWS)\SAML example\High API\WebApplication3\WebApplication3\obj\Release\WebApplication3.csproj.CoreCompileInputs.cache
+C:\Users\pn2968\Projects\AuthGatway\SP example project - Development(SalehAuthWS)\SAML example\High API\WebApplication3\WebApplication3\obj\Release\WebApplication3.csproj.CopyComplete
+C:\Users\pn2968\Projects\AuthGatway\SP example project - Development(SalehAuthWS)\SAML example\High API\WebApplication3\WebApplication3\obj\Release\WebApplication3.dll
+C:\Users\pn2968\Projects\AuthGatway\SP example project - Development(SalehAuthWS)\SAML example\High API\WebApplication3\WebApplication3\obj\Release\WebApplication3.pdb
+C:\Users\pn2968\Projects\AuthGatway\SP example project - Dev Paid\SAML example\High API\WebApplication3\WebApplication3\bin\ApplicationInsights.config
+C:\Users\pn2968\Projects\AuthGatway\SP example project - Dev Paid\SAML example\High API\WebApplication3\WebApplication3\bin\WebApplication3.dll.config
+C:\Users\pn2968\Projects\AuthGatway\SP example project - Dev Paid\SAML example\High API\WebApplication3\WebApplication3\bin\WebApplication3.dll
+C:\Users\pn2968\Projects\AuthGatway\SP example project - Dev Paid\SAML example\High API\WebApplication3\WebApplication3\bin\WebApplication3.pdb
+C:\Users\pn2968\Projects\AuthGatway\SP example project - Dev Paid\SAML example\High API\WebApplication3\WebApplication3\bin\Antlr3.Runtime.dll
+C:\Users\pn2968\Projects\AuthGatway\SP example project - Dev Paid\SAML example\High API\WebApplication3\WebApplication3\bin\AspNet.ScriptManager.bootstrap.dll
+C:\Users\pn2968\Projects\AuthGatway\SP example project - Dev Paid\SAML example\High API\WebApplication3\WebApplication3\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\pn2968\Projects\AuthGatway\SP example project - Dev Paid\SAML example\High API\WebApplication3\WebApplication3\bin\ComponentSpace.SAML2.dll
+C:\Users\pn2968\Projects\AuthGatway\SP example project - Dev Paid\SAML example\High API\WebApplication3\WebApplication3\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\pn2968\Projects\AuthGatway\SP example project - Dev Paid\SAML example\High API\WebApplication3\WebApplication3\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\pn2968\Projects\AuthGatway\SP example project - Dev Paid\SAML example\High API\WebApplication3\WebApplication3\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\pn2968\Projects\AuthGatway\SP example project - Dev Paid\SAML example\High API\WebApplication3\WebApplication3\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\pn2968\Projects\AuthGatway\SP example project - Dev Paid\SAML example\High API\WebApplication3\WebApplication3\bin\Microsoft.AI.Web.dll
+C:\Users\pn2968\Projects\AuthGatway\SP example project - Dev Paid\SAML example\High API\WebApplication3\WebApplication3\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\pn2968\Projects\AuthGatway\SP example project - Dev Paid\SAML example\High API\WebApplication3\WebApplication3\bin\Microsoft.ApplicationInsights.dll
+C:\Users\pn2968\Projects\AuthGatway\SP example project - Dev Paid\SAML example\High API\WebApplication3\WebApplication3\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Users\pn2968\Projects\AuthGatway\SP example project - Dev Paid\SAML example\High API\WebApplication3\WebApplication3\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\pn2968\Projects\AuthGatway\SP example project - Dev Paid\SAML example\High API\WebApplication3\WebApplication3\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\pn2968\Projects\AuthGatway\SP example project - Dev Paid\SAML example\High API\WebApplication3\WebApplication3\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\pn2968\Projects\AuthGatway\SP example project - Dev Paid\SAML example\High API\WebApplication3\WebApplication3\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\pn2968\Projects\AuthGatway\SP example project - Dev Paid\SAML example\High API\WebApplication3\WebApplication3\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\pn2968\Projects\AuthGatway\SP example project - Dev Paid\SAML example\High API\WebApplication3\WebApplication3\bin\Newtonsoft.Json.dll
+C:\Users\pn2968\Projects\AuthGatway\SP example project - Dev Paid\SAML example\High API\WebApplication3\WebApplication3\bin\System.Web.Optimization.dll
+C:\Users\pn2968\Projects\AuthGatway\SP example project - Dev Paid\SAML example\High API\WebApplication3\WebApplication3\bin\WebGrease.dll
+C:\Users\pn2968\Projects\AuthGatway\SP example project - Dev Paid\SAML example\High API\WebApplication3\WebApplication3\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\pn2968\Projects\AuthGatway\SP example project - Dev Paid\SAML example\High API\WebApplication3\WebApplication3\bin\System.Web.Optimization.xml
+C:\Users\pn2968\Projects\AuthGatway\SP example project - Dev Paid\SAML example\High API\WebApplication3\WebApplication3\bin\Antlr3.Runtime.pdb
+C:\Users\pn2968\Projects\AuthGatway\SP example project - Dev Paid\SAML example\High API\WebApplication3\WebApplication3\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\pn2968\Projects\AuthGatway\SP example project - Dev Paid\SAML example\High API\WebApplication3\WebApplication3\bin\Newtonsoft.Json.xml
+C:\Users\pn2968\Projects\AuthGatway\SP example project - Dev Paid\SAML example\High API\WebApplication3\WebApplication3\bin\Microsoft.ApplicationInsights.xml
+C:\Users\pn2968\Projects\AuthGatway\SP example project - Dev Paid\SAML example\High API\WebApplication3\WebApplication3\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\pn2968\Projects\AuthGatway\SP example project - Dev Paid\SAML example\High API\WebApplication3\WebApplication3\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\pn2968\Projects\AuthGatway\SP example project - Dev Paid\SAML example\High API\WebApplication3\WebApplication3\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\pn2968\Projects\AuthGatway\SP example project - Dev Paid\SAML example\High API\WebApplication3\WebApplication3\bin\Microsoft.AI.Web.xml
+C:\Users\pn2968\Projects\AuthGatway\SP example project - Dev Paid\SAML example\High API\WebApplication3\WebApplication3\obj\Release\WebApplication3.csprojAssemblyReference.cache
+C:\Users\pn2968\Projects\AuthGatway\SP example project - Dev Paid\SAML example\High API\WebApplication3\WebApplication3\obj\Release\WebApplication3.csproj.CoreCompileInputs.cache
+C:\Users\pn2968\Projects\AuthGatway\SP example project - Dev Paid\SAML example\High API\WebApplication3\WebApplication3\obj\Release\WebApplication3.csproj.CopyComplete
+C:\Users\pn2968\Projects\AuthGatway\SP example project - Dev Paid\SAML example\High API\WebApplication3\WebApplication3\obj\Release\WebApplication3.dll
+C:\Users\pn2968\Projects\AuthGatway\SP example project - Dev Paid\SAML example\High API\WebApplication3\WebApplication3\obj\Release\WebApplication3.pdb
+C:\Users\pn2968\Projects\AuthGatway\SP example project - Test Paid\SAML example\High API\WebApplication3\WebApplication3\bin\ApplicationInsights.config
+C:\Users\pn2968\Projects\AuthGatway\SP example project - Test Paid\SAML example\High API\WebApplication3\WebApplication3\bin\WebApplication3.dll.config
+C:\Users\pn2968\Projects\AuthGatway\SP example project - Test Paid\SAML example\High API\WebApplication3\WebApplication3\bin\WebApplication3.dll
+C:\Users\pn2968\Projects\AuthGatway\SP example project - Test Paid\SAML example\High API\WebApplication3\WebApplication3\bin\WebApplication3.pdb
+C:\Users\pn2968\Projects\AuthGatway\SP example project - Test Paid\SAML example\High API\WebApplication3\WebApplication3\bin\Antlr3.Runtime.dll
+C:\Users\pn2968\Projects\AuthGatway\SP example project - Test Paid\SAML example\High API\WebApplication3\WebApplication3\bin\AspNet.ScriptManager.bootstrap.dll
+C:\Users\pn2968\Projects\AuthGatway\SP example project - Test Paid\SAML example\High API\WebApplication3\WebApplication3\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\pn2968\Projects\AuthGatway\SP example project - Test Paid\SAML example\High API\WebApplication3\WebApplication3\bin\ComponentSpace.SAML2.dll
+C:\Users\pn2968\Projects\AuthGatway\SP example project - Test Paid\SAML example\High API\WebApplication3\WebApplication3\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\pn2968\Projects\AuthGatway\SP example project - Test Paid\SAML example\High API\WebApplication3\WebApplication3\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\pn2968\Projects\AuthGatway\SP example project - Test Paid\SAML example\High API\WebApplication3\WebApplication3\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\pn2968\Projects\AuthGatway\SP example project - Test Paid\SAML example\High API\WebApplication3\WebApplication3\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\pn2968\Projects\AuthGatway\SP example project - Test Paid\SAML example\High API\WebApplication3\WebApplication3\bin\Microsoft.AI.Web.dll
+C:\Users\pn2968\Projects\AuthGatway\SP example project - Test Paid\SAML example\High API\WebApplication3\WebApplication3\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\pn2968\Projects\AuthGatway\SP example project - Test Paid\SAML example\High API\WebApplication3\WebApplication3\bin\Microsoft.ApplicationInsights.dll
+C:\Users\pn2968\Projects\AuthGatway\SP example project - Test Paid\SAML example\High API\WebApplication3\WebApplication3\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Users\pn2968\Projects\AuthGatway\SP example project - Test Paid\SAML example\High API\WebApplication3\WebApplication3\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\pn2968\Projects\AuthGatway\SP example project - Test Paid\SAML example\High API\WebApplication3\WebApplication3\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\pn2968\Projects\AuthGatway\SP example project - Test Paid\SAML example\High API\WebApplication3\WebApplication3\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\pn2968\Projects\AuthGatway\SP example project - Test Paid\SAML example\High API\WebApplication3\WebApplication3\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\pn2968\Projects\AuthGatway\SP example project - Test Paid\SAML example\High API\WebApplication3\WebApplication3\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\pn2968\Projects\AuthGatway\SP example project - Test Paid\SAML example\High API\WebApplication3\WebApplication3\bin\Newtonsoft.Json.dll
+C:\Users\pn2968\Projects\AuthGatway\SP example project - Test Paid\SAML example\High API\WebApplication3\WebApplication3\bin\System.Web.Optimization.dll
+C:\Users\pn2968\Projects\AuthGatway\SP example project - Test Paid\SAML example\High API\WebApplication3\WebApplication3\bin\WebGrease.dll
+C:\Users\pn2968\Projects\AuthGatway\SP example project - Test Paid\SAML example\High API\WebApplication3\WebApplication3\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\pn2968\Projects\AuthGatway\SP example project - Test Paid\SAML example\High API\WebApplication3\WebApplication3\bin\System.Web.Optimization.xml
+C:\Users\pn2968\Projects\AuthGatway\SP example project - Test Paid\SAML example\High API\WebApplication3\WebApplication3\bin\Antlr3.Runtime.pdb
+C:\Users\pn2968\Projects\AuthGatway\SP example project - Test Paid\SAML example\High API\WebApplication3\WebApplication3\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\pn2968\Projects\AuthGatway\SP example project - Test Paid\SAML example\High API\WebApplication3\WebApplication3\bin\Newtonsoft.Json.xml
+C:\Users\pn2968\Projects\AuthGatway\SP example project - Test Paid\SAML example\High API\WebApplication3\WebApplication3\bin\Microsoft.ApplicationInsights.xml
+C:\Users\pn2968\Projects\AuthGatway\SP example project - Test Paid\SAML example\High API\WebApplication3\WebApplication3\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\pn2968\Projects\AuthGatway\SP example project - Test Paid\SAML example\High API\WebApplication3\WebApplication3\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\pn2968\Projects\AuthGatway\SP example project - Test Paid\SAML example\High API\WebApplication3\WebApplication3\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\pn2968\Projects\AuthGatway\SP example project - Test Paid\SAML example\High API\WebApplication3\WebApplication3\bin\Microsoft.AI.Web.xml
+C:\Users\pn2968\Projects\AuthGatway\SP example project - Test Paid\SAML example\High API\WebApplication3\WebApplication3\obj\Release\WebApplication3.csprojAssemblyReference.cache
+C:\Users\pn2968\Projects\AuthGatway\SP example project - Test Paid\SAML example\High API\WebApplication3\WebApplication3\obj\Release\WebApplication3.csproj.CoreCompileInputs.cache
+C:\Users\pn2968\Projects\AuthGatway\SP example project - Test Paid\SAML example\High API\WebApplication3\WebApplication3\obj\Release\WebApplication3.csproj.CopyComplete
+C:\Users\pn2968\Projects\AuthGatway\SP example project - Test Paid\SAML example\High API\WebApplication3\WebApplication3\obj\Release\WebApplication3.dll
+C:\Users\pn2968\Projects\AuthGatway\SP example project - Test Paid\SAML example\High API\WebApplication3\WebApplication3\obj\Release\WebApplication3.pdb
