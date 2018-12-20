@@ -11,7 +11,7 @@ This project is an Example for creating SAML 2.0 Service Provider using [Compone
 
 ## Installing
 
-####Add/Replace ComponentSpace library
+#### Add/Replace ComponentSpace library
 
 First remove the existing ComponentSpace library
 
@@ -32,14 +32,14 @@ Then add the new ComponentSpace library
 
 
 
-####Add Identity Provider Certificate public key
+#### Add Identity Provider Certificate public key
 
 
 * In Solution Explorer, open Certificates folder, open idp.cer file
 * Paste the Identity Provider Certificate inside
 
 
-####Add Service Provider Certificate private key
+#### Add Service Provider Certificate private key
 
 
 * In Windows Explorer, go to the project directory, open Certificate folder
@@ -47,13 +47,13 @@ Then add the new ComponentSpace library
 * Make sure the file name still sp.pfx
 
 
-####Configure SAML request and response
+#### Configure SAML request and response
 
 * In Solution Explorer, open saml.config file
 * Fill in the empty values with Service Provider and Identity Provider information
 
 
-####Add Identity Provider Entity ID to Web.config
+#### Add Identity Provider Entity ID to Web.config
 
 * In Solution Explorer, open Web.config file
 * Fill in the empty value for PartnerIdP key with Identity Provider Entity ID
