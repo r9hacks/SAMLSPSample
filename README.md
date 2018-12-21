@@ -1,6 +1,6 @@
 # SAML 2.0 Service Provider
 
-This project is an Example for creating SAML 2.0 Service Provider using [ComponentSpace](https://www.componentspace.com/) library to connect to Identity Provider (Idp) but not a must.
+This project is an Example for creating SAML 2.0 Service Provider (SP) using [ComponentSpace](https://www.componentspace.com/) library to connect to Identity Provider (Idp).
 
 ## Prerequisites
 
